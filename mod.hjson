@@ -28,11 +28,11 @@ description:
     More map making tools will be added in future
     '''
 
-repo: "Jyle6/MindustryMappingUtilities"
+repo: "ApsZoldat/MindustryMappingUtilities"
 
-version: 1.8
+version: 1.9
 
-minGameVersion: 155
+minGameVersion: 154
 
 java: true
 
